@@ -1,0 +1,15 @@
+print('This program calculates and displays travel expenses')
+print('Enter Budget:')
+print('Enter your travel destination"')
+print('How much do you think you will spend on gas?')
+print('Approximately, how much will you need for accomodation/hotel?')
+print('Last, how much do you need for food')
+print('------------Travel Expenses------------')
+print('Location:')
+print('Initial Budget:')
+
+print('Fuel:')
+print('Accomodation:')
+print('Food:')
+
+print('Remaining Balance')
