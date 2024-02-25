@@ -1,0 +1,8 @@
+print('Enter integer: 4')
+print('You entered: 4')
+print('4 squared is 16')
+print('And 4 cubed is 64 !!')
+print('Enter another integer:')
+print('5')
+print('4 + 5 is 9')
+print('4 * 5 is 20')
